@@ -5,7 +5,7 @@ Student at International Institute of Information Technology, Pune.
 
 - 📫 How to reach me: rahulkmr5041@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/RahulK4102)  
+![Profile views]([https://gpvc.arturio.dev/RahulK4102])  
 
 
 
