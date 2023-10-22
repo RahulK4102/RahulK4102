@@ -5,9 +5,6 @@ Student at International Institute of Information Technology, Pune.
 
 - 📫 How to reach me: rahulkmr5041@gmail.com
 
-![Profile views]([https://gpvc.arturio.dev/RahulK4102])  
-
-
 
 <h3 align="left">Tools and languages: </h3>
 
@@ -25,6 +22,4 @@ Student at International Institute of Information Technology, Pune.
 
 </div>
 
-[![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=RahulK4102&theme=gotham)](https://github.com/RahulK4102)
-
-[![@RahulK4102's Holopin board](https://holopin.io/api/user/board?user=RahulK4102)](https://holopin.io/@RahulK4102)
+[![@Rahulk4102's Holopin badges](https://holopin.me/rahulk4102)](https://holopin.io/@rahulk4102)
