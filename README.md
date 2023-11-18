@@ -8,7 +8,7 @@ Student at International Institute of Information Technology, Pune.
 
 <h3 align="left">Tools and languages: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,php,html,css,bootstrap,tailwind,js,react,next,nodejs,express,mongodb,mysql,prisma,git,github)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,html,css,bootstrap,tailwind,js,react,next,nodejs,express,mongodb,mysql,prisma,git,github)
 
 ### 📊 GitHub Stats:
 
